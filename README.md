@@ -132,11 +132,11 @@ Start minikube and run demo test
    helm_deploy.sh
 ```
 
-[helm_ex]: /img/helm_ex.png
-[kube_get_pod]: /img/kube_get_pod.png
-[kube_get_lease]: /img/kube_get_lease.png
-[kube_logs_lease]: /img/kube_logs_lease.png
-[kube_logs_lease_another]: /img/kube_logs_lease_another.png
+[helm_ex]: https://github.com/luhamter09/Ez4.CronJob.Samples/blob/main/img/helm_ex.png
+[kube_get_pod]: https://github.com/luhamter09/Ez4.CronJob.Samples/blob/main/img/kube_get_pod.png
+[kube_get_lease]: https://github.com/luhamter09/Ez4.CronJob.Samples/blob/main/img/kube_get_lease.png
+[kube_logs_lease]: https://github.com/luhamter09/Ez4.CronJob.Samples/blob/main/img/kube_logs_lease.png
+[kube_logs_lease_another]: https://github.com/luhamter09/Ez4.CronJob.Samples/blob/main/img/kube_logs_lease_another.png
 
 ![Image description][helm_ex]
 
