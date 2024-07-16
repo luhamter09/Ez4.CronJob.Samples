@@ -10,7 +10,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Ez4.CronJob" Version="6.0.2" />
+    <PackageReference Include="Ez4.CronJob" Version="6.0.3" />
   </ItemGroup>
 
 </Project>
